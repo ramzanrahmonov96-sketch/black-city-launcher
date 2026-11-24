@@ -1,0 +1,15 @@
+{
+  "game": "BLACK CITY RP",
+  "version": "0.1.0",
+  "client": {
+    "files": "files/",
+    "cache": "Cache/"
+  },
+  "server": {
+    "ip": "188.127.241.74",
+    "port": 2581
+  },
+  "update": {
+    "enabled": true
+  }
+}
