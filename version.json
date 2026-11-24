@@ -1,6 +1,9 @@
+
 {
   "version": "0.1.0",
   "game": "BLACK CITY RP",
-  "files": [],
-  "message": "Первая версия загрузчика"
+  "apk_file": "BLACKCITY_20432266.apk",
+  "apk_url": "https://github.com/ramzanrahmonov96-sketch/black-city-launcher/releases/latest/download/BLACKCITY_20432266.apk",
+  "message": "Первая версия BLACK CITY Launcher",
+  "files": []
 }
